@@ -1,0 +1,12 @@
+
+@font-face {
+    font-family: 'Agrandir'; /* Name your custom font family */
+    src: url('/fonts/agrandir-regular.woff2') format('woff2'),
+         url('/fonts/agrandir-regular.woff') format('woff');
+    /* Add additional src for different font formats if necessary */
+    font-weight: normal;
+    font-style: normal;
+  }
+
+
+
